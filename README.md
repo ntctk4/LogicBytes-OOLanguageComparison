@@ -35,7 +35,7 @@ GitHub public repository that the team uses.
 * [Properties](Properties/properties.md)
 * [Interfaces / protocols](Interfaces/interfaces.md)
 * [Inheritance / extension](Inheritance/inheritance.md)
-* [Reflection](Reflecion/reflection.md)
+* [Reflection](Reflection/reflection.md)
 * [Memory management](Memory/memory.md)
 * [Comparisons of references and values](Comparisons/comparisons.md)
 * [Null/nil references](Null/null.md)
