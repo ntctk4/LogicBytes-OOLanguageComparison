@@ -1,1 +1,2 @@
 # Singleton
+[Home](../README.md)

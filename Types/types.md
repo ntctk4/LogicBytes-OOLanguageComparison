@@ -1,1 +1,2 @@
 # Types
+[Home](../README.md)

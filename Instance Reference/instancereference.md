@@ -1,1 +1,2 @@
-Instance Reference Name in Data Type (class)
+# Instance Reference Name in Data Type (class)
+[Home](../README.md)
