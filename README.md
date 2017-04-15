@@ -70,7 +70,7 @@ GitHub public repository that the team uses.
   * Does the language have features for handling null/nil references?
 * [Errors and exception handling](Exceptions/exceptions.md)
 * [Lambda expressions, closures, or functions as types](Lambdas/lambdas.md)
-* [Implementation of listeners and event handlers](Listeners and Event Handlers/listeners-events.md)
+* [Implementation of listeners and event handlers](Listeners\ and\ Event\ Handlers/listeners-events.md)
 * [Singleton](Singleton/singleton.md)
   * How is a singleton implemented?
   * Can it be made thread-safe?
