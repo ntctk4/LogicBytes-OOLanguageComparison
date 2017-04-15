@@ -30,7 +30,7 @@ GitHub public repository that the team uses.
   * Why was the language created?
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
-* [Unique features of the language](Unigue Features/unique.md)
+* [Unique features of the language](Unique\ Features/unique.md)
   * Does the language have any particularly unique features?
 * [Name spaces](Namespaces/namespaces.md)
   * How are name spaces implemented?
@@ -44,7 +44,7 @@ GitHub public repository that the team uses.
   * Creating new instances
   * Constructing/initializing
   * Destructing/de-initializing
-* [Instance reference name in data type (class)](Instance Reference/instancereference.md)
+* [Instance reference name in data type (class)](Instance\ Reference/instancereference.md)
   * this?  self?
 * [Properties](Properties/properties.md)
   * Getters and setters...write your own or built in?
@@ -75,9 +75,9 @@ GitHub public repository that the team uses.
   * How is a singleton implemented?
   * Can it be made thread-safe?
   * Can the singleton instance be lazily instantiated?
-* [Procedural programming](Procedural Programming/procedural.md)
+* [Procedural programming](Procedural\ Programming/procedural.md)
   * Does the language support procedural programming?
-* [Functional programming](Functional Programming/functional.md)
+* [Functional programming](Functional\ Programming/functional.md)
   * Does the language support functional programming?
 * [Multithreading](Multithreading/multithreading.md)
   * Threads or thread-like abilities
