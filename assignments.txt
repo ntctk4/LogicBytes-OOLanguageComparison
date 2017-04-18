@@ -1,0 +1,27 @@
+Reem:
+Errors and Exception Handling
+Null/nil references
+Interfaces/Protocols
+Functional Programming
+Procedural Programming
+
+Nathan:
+Comparisons of References and Values
+Language Purpose/Genesis
+Implementation of Listeners and Event Handlers
+Unique Features
+Multithreading
+
+Luke:
+Memory Management
+Inheritance/Extension
+Namespaces
+Types
+Lambda Expressions, Closures, or Functions as Types
+
+Scott:
+Singleton
+Classes
+Reflection
+Instance Reference
+Properties
