@@ -1,8 +1,6 @@
 # Memory Management
 * ### How is it handled?
-
   In both C# and Java, developers do not need to allocate or deallocate memory.
-
   Memory is managed automatically in these languages.
 
 * ### How does it work?
