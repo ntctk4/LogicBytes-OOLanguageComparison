@@ -8,8 +8,8 @@ Therefore neither language supports multiple inheritance, but implementing multi
 Inheritance is treated the same in both programming languages, except for their differing syntax.
 
 ---
-[C# Program](inheritance C#)
+[C# Program](inheritance-C#)
 
-[Java Program](inheritance Java)
+[Java Program](inheritance-Java)
 
 [Home](../README.md)
