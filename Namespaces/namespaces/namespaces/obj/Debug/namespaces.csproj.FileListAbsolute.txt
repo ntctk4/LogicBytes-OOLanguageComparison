@@ -1,0 +1,6 @@
+c:\users\inkog\desktop\namespaces\namespaces\bin\Debug\namespaces.exe.config
+c:\users\inkog\desktop\namespaces\namespaces\bin\Debug\namespaces.exe
+c:\users\inkog\desktop\namespaces\namespaces\bin\Debug\namespaces.pdb
+c:\users\inkog\desktop\namespaces\namespaces\obj\Debug\namespaces.csprojResolveAssemblyReference.cache
+c:\users\inkog\desktop\namespaces\namespaces\obj\Debug\namespaces.exe
+c:\users\inkog\desktop\namespaces\namespaces\obj\Debug\namespaces.pdb
