@@ -9,7 +9,7 @@
 
 * [Language purpose/genesis](Language/README.md)
 * [Unique features of the language](Unique_Features/README.md)
-* [Name spaces](Namespaces/README.md)
+* [Namespaces](Namespaces/README.md)
 * [Types](Types/README.md)
 * [Classes](Classes/README.md)
 * [Instance reference name in data type (class)](Instance_Reference/README.md)
