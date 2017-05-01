@@ -45,7 +45,9 @@
 * ### *Are both reference and value types supported?*
   In both Java and C# there are value types and reference types.
   Value types are held on the stack, whereas the reference types are on the heap.
-  Value types can not be passed to methods and modified, but reference types can be.
+  When modified, value types change their data directly, while reference types change their pointer to a different location in memory.
+  Java is a strictly pass-by-value language.
+  However, C# has a keyword called 'ref' that allows any type to be passed by reference.
 
 * ### *Can new value types be created?*
   In Java, new value types can not be created.

@@ -1,0 +1,6 @@
+c:\users\inkog\desktop\types\types\bin\Debug\types.exe.config
+c:\users\inkog\desktop\types\types\bin\Debug\types.exe
+c:\users\inkog\desktop\types\types\bin\Debug\types.pdb
+c:\users\inkog\desktop\types\types\obj\Debug\types.csprojResolveAssemblyReference.cache
+c:\users\inkog\desktop\types\types\obj\Debug\types.exe
+c:\users\inkog\desktop\types\types\obj\Debug\types.pdb
