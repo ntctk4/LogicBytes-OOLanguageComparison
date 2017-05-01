@@ -55,8 +55,8 @@
   This is done by extending the ValueType Class with a custom class.
 
 ---
-[C# Program](types-C#)
+[C# Program](c-sharp)
 
-[Java Program](types-Java)
+[Java Program](java)
 
 [Home](../README.md)

@@ -12,8 +12,8 @@
   Packages are used for the same reasons as namespaces, their implementation is just different.
 
 ---
-[C# Program](namespaces)
+[C# Program](c-sharp)
 
-[Java Program](packages)
+[Java Program](java)
 
 [Home](../README.md)
