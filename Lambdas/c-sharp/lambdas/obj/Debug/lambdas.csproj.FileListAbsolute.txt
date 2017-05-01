@@ -1,0 +1,6 @@
+c:\users\inkog\desktop\lambdas\lambdas\bin\Debug\lambdas.exe.config
+c:\users\inkog\desktop\lambdas\lambdas\bin\Debug\lambdas.exe
+c:\users\inkog\desktop\lambdas\lambdas\bin\Debug\lambdas.pdb
+c:\users\inkog\desktop\lambdas\lambdas\obj\Debug\lambdas.csprojResolveAssemblyReference.cache
+c:\users\inkog\desktop\lambdas\lambdas\obj\Debug\lambdas.exe
+c:\users\inkog\desktop\lambdas\lambdas\obj\Debug\lambdas.pdb
