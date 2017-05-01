@@ -1,6 +1,8 @@
 package inheritance;
 
-interface MyInterface
+interface MyInterface1{}
+
+interface MyInterface2 extends MyInterface1
 {
     void method1();
 }
@@ -15,7 +17,7 @@ abstract class MyParentClass
     }
 }
 
-class MyClass extends MyParentClass implements MyInterface
+class MyClass extends MyParentClass implements MyInterface2
 {
     @Override
     public void method1()

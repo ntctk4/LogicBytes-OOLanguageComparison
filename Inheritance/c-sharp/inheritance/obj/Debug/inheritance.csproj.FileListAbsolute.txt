@@ -13,3 +13,8 @@ C:\Users\Inkog\Desktop\inheritance C#\inheritance\obj\Debug\inheritance.csprojRe
 C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\inheritance C#\inheritance\bin\Debug\inheritance.exe.config
 C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\inheritance C#\inheritance\obj\Debug\inheritance.exe
 C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\inheritance C#\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\c-sharp\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\c-sharp\inheritance\bin\Debug\inheritance.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\c-sharp\inheritance\bin\Debug\inheritance.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\c-sharp\inheritance\obj\Debug\inheritance.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Inheritance\c-sharp\inheritance\obj\Debug\inheritance.pdb

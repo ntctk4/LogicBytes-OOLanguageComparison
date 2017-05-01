@@ -4,3 +4,9 @@ c:\users\inkog\desktop\types\types\bin\Debug\types.pdb
 c:\users\inkog\desktop\types\types\obj\Debug\types.csprojResolveAssemblyReference.cache
 c:\users\inkog\desktop\types\types\obj\Debug\types.exe
 c:\users\inkog\desktop\types\types\obj\Debug\types.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Types\c-sharp\types\bin\Debug\types.exe.config
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Types\c-sharp\types\obj\Debug\types.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Types\c-sharp\types\obj\Debug\types.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Types\c-sharp\types\bin\Debug\types.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Types\c-sharp\types\bin\Debug\types.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Types\c-sharp\types\obj\Debug\types.csprojResolveAssemblyReference.cache

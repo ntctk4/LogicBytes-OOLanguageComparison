@@ -4,3 +4,9 @@ c:\users\inkog\desktop\namespaces\namespaces\bin\Debug\namespaces.pdb
 c:\users\inkog\desktop\namespaces\namespaces\obj\Debug\namespaces.csprojResolveAssemblyReference.cache
 c:\users\inkog\desktop\namespaces\namespaces\obj\Debug\namespaces.exe
 c:\users\inkog\desktop\namespaces\namespaces\obj\Debug\namespaces.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Namespaces\c-sharp\namespaces\bin\Debug\namespaces.exe.config
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Namespaces\c-sharp\namespaces\obj\Debug\namespaces.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Namespaces\c-sharp\namespaces\obj\Debug\namespaces.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Namespaces\c-sharp\namespaces\bin\Debug\namespaces.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Namespaces\c-sharp\namespaces\bin\Debug\namespaces.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Namespaces\c-sharp\namespaces\obj\Debug\namespaces.csprojResolveAssemblyReference.cache

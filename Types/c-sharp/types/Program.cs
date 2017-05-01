@@ -4,12 +4,12 @@ namespace types
 {
     interface MyInterface
     {
-        void method();
+        void Method();
     }
 
     class MyClass : MyInterface
     {
-    public void method()
+    public void Method()
     {
         Console.WriteLine("It Works!");
     }
@@ -29,7 +29,7 @@ class Program
             long valType7 = 999999999;
             short valType8 = 9999;
 
-            valueMethod(valType1, valType2, valType3, valType4, valType5, valType6, valType7, valType8);
+            ValueMethod(valType1, valType2, valType3, valType4, valType5, valType6, valType7, valType8);
             Console.WriteLine(valType1);
             Console.WriteLine(valType2);
             Console.WriteLine(valType3);
@@ -45,7 +45,7 @@ class Program
             Object thing = new Object();
             String word = "cat";
 
-            referenceMethod(array, ref myInterface, ref thing, ref word);
+            ReferenceMethod(array, ref myInterface, ref thing, ref word);
             Console.WriteLine("\n[" + string.Join(", ", array) + "]");
             if(myInterface == null)
             {
@@ -53,7 +53,7 @@ class Program
             }
             else
             {
-                myInterface.method();
+                myInterface.Method();
             }
             if(thing == null)
             {
@@ -66,7 +66,7 @@ class Program
             Console.WriteLine(word + "\n");
         }
 
-        private static void valueMethod(bool valType1, byte valType2, char valType3, double valType4, float valType5, int valType6, long valType7, short valType8)
+        private static void ValueMethod(bool valType1, byte valType2, char valType3, double valType4, float valType5, int valType6, long valType7, short valType8)
         {
             valType1 = false;
             valType2 = 15;
@@ -78,7 +78,7 @@ class Program
             valType8 = -666;
         }
 
-        private static void referenceMethod(int[] array, ref MyInterface myInterface, ref Object thing, ref String word)
+        private static void ReferenceMethod(int[] array, ref MyInterface myInterface, ref Object thing, ref String word)
         {
             int j = 10;
             for (int i = 0; i < array.Length; i++)

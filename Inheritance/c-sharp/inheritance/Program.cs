@@ -2,29 +2,31 @@
 
 namespace inheritance
 {
-    interface MyInterface
+    interface MyInterface1{}
+
+    interface MyInterface2 : MyInterface1
     {
-        void method1();
+        void Method1();
     }
 
     abstract class MyParentClass
     {
-        abstract public void method2();
+        abstract public void Method2();
 
-        public void method3()
+        public void Method3()
         {
             Console.WriteLine("method3");
         }
     }
 
-    class MyClass : MyParentClass, MyInterface
+    class MyClass : MyParentClass, MyInterface2
     {
-        public void method1()
+        public void Method1()
         {
             Console.WriteLine("method1");
         }
 
-        public override void method2()
+        public override void Method2()
         {
             Console.WriteLine("method2");
         }
@@ -35,9 +37,9 @@ namespace inheritance
         static void Main(string[] args)
         {
             MyClass thing = new MyClass();
-            thing.method1();
-            thing.method2();
-            thing.method3();
+            thing.Method1();
+            thing.Method2();
+            thing.Method3();
         }
     }
 }
