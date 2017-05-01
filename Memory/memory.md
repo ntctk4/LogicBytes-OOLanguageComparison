@@ -8,7 +8,7 @@
 * ### *How does it work?*
   In both languages, when an object is created, memory is allocated for it and its constructor is ran.
   Once there are no longer references to the object for it to be used, it is able to be destroyed and its memory freed.
-  In C#, a destructor method is called if one exists in the class of the object.
+  In C#, a destructor method is called if one exists in the class of the object that is destroyed.
 
 * ### *Garbage collection?*
   Yes, both C# and Java have a garbage collector that handles the memory.

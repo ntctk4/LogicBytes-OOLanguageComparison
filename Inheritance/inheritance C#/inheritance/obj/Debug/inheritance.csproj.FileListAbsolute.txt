@@ -1,0 +1,12 @@
+c:\users\inkog\desktop\inheritance\inheritance\bin\Debug\inheritance.exe.config
+c:\users\inkog\desktop\inheritance\inheritance\bin\Debug\inheritance.exe
+c:\users\inkog\desktop\inheritance\inheritance\bin\Debug\inheritance.pdb
+c:\users\inkog\desktop\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+c:\users\inkog\desktop\inheritance\inheritance\obj\Debug\inheritance.exe
+c:\users\inkog\desktop\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Inkog\Desktop\inheritance C#\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\Inkog\Desktop\inheritance C#\inheritance\obj\Debug\inheritance.exe
+C:\Users\Inkog\Desktop\inheritance C#\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Inkog\Desktop\inheritance C#\inheritance\bin\Debug\inheritance.exe
+C:\Users\Inkog\Desktop\inheritance C#\inheritance\bin\Debug\inheritance.pdb
+C:\Users\Inkog\Desktop\inheritance C#\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
