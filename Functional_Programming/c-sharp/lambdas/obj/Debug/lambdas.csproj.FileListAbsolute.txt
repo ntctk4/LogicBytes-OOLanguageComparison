@@ -1,0 +1,12 @@
+c:\users\inkog\desktop\lambdas\lambdas\bin\Debug\lambdas.exe.config
+c:\users\inkog\desktop\lambdas\lambdas\bin\Debug\lambdas.exe
+c:\users\inkog\desktop\lambdas\lambdas\bin\Debug\lambdas.pdb
+c:\users\inkog\desktop\lambdas\lambdas\obj\Debug\lambdas.csprojResolveAssemblyReference.cache
+c:\users\inkog\desktop\lambdas\lambdas\obj\Debug\lambdas.exe
+c:\users\inkog\desktop\lambdas\lambdas\obj\Debug\lambdas.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Lambdas\c-sharp\lambdas\bin\Debug\lambdas.exe.config
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Lambdas\c-sharp\lambdas\obj\Debug\lambdas.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Lambdas\c-sharp\lambdas\obj\Debug\lambdas.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Lambdas\c-sharp\lambdas\bin\Debug\lambdas.exe
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Lambdas\c-sharp\lambdas\bin\Debug\lambdas.pdb
+C:\Users\Inkog\Documents\GitHub\LogicBytes-OOLanguageComparison\Lambdas\c-sharp\lambdas\obj\Debug\lambdas.csprojResolveAssemblyReference.cache

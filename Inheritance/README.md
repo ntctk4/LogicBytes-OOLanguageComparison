@@ -8,8 +8,4 @@ Therefore neither language supports multiple inheritance, but implementing multi
 Inheritance is treated the same in both programming languages, except for their differing syntax.
 
 ---
-[C# Program](c-sharp)
-
-[Java Program](java)
-
 [Home](../README.md)

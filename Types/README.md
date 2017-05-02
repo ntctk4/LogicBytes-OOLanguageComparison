@@ -55,8 +55,4 @@
   This is done by extending the ValueType Class with a custom class.
 
 ---
-[C# Program](c-sharp)
-
-[Java Program](java)
-
 [Home](../README.md)

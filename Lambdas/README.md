@@ -17,8 +17,4 @@
   Delegates are objects that refer to a certain function, like a function pointer.
 
 ---
-[C# Program](c-sharp)
-
-[Java Program](java)
-
 [Home](../README.md)
