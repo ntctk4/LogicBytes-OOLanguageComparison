@@ -7,7 +7,7 @@
 
 ## Comparison Criteria
 
-* [Language purpose/genesis](Language/README.md)
+* [Language purpose/genesis](Language/)
 * [Unique features of the language](Unique_Features/README.md)
 * [Namespaces](Namespaces/README.md)
 * [Types](Types/README.md)
