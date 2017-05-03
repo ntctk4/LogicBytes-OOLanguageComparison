@@ -29,25 +29,32 @@ The closest thing to Properties in Java is to have a private backing variable wi
     }
 
 
-## C#
+## C# 
 
-C# has actual Properties.  Default get and set methods are provided, but can be overridden to provide computed properties or constraints on setting.  You can use a backing variables, but if you do, you must link them to the Properties with overridden getters and setters.
+C# has actual Properties ([External Link: MSDN C# Properties](https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx).  Default get and set methods are provided, but can be overridden to provide computed properties or constraints on setting.  You can use a backing variables, but if you do, you must link them to the Properties with overridden getters and setters.
 
     public class MyClass {
         // Backing Variable
         private int _someInt;
-        // Variable Backed Property
+        // Variable Backed Property simple linking
         public int SomeInt { get { return _someInt; } set { _someInt = value; }
         
         // default getters and setters, value is not backed
         public double X { get; set; }
         
+        private double _y;
+        // Constraints on Y value (must be greater than 10)
         public double Y {
+            get { return _y; }
             set {
-                if (value > 10)
-                    Y = value;
+                if (value > 10) {
+                    _y = value;
+                }
             }
         }
+        
+        // Computed Property
+        public bool SomeIntGreaterThanTen => _someInt > 10;
     }
 
 [Home](../README.md)
