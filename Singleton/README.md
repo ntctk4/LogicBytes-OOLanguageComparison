@@ -4,21 +4,22 @@
 * Implementation: [External Link: Singleton Design Pattern in Java](https://sourcemaking.com/design_patterns/singleton/java/1)
   * This Java Singleton is inherently thread-safe and is lazily instantiated only when getInstance() is first called.
 
-        public class Singleton {
-            private Singleton() {
-              System.out.println("Inside Singleton Private Constructor");
-            }
+```java
+public class Singleton {
+    private Singleton() {
+      System.out.println("Inside Singleton Private Constructor");
+    }
 
-            private static class SingletonHolder {
-                private static final Singleton INSTANCE = new Singleton();
-            }
+    private static class SingletonHolder {
+        private static final Singleton INSTANCE = new Singleton();
+    }
 
-            public static Singleton getInstance() {
-                System.out.println("Returning: SingletonHolder.INSTANCE");
-                return SingletonHolder.INSTANCE;
-            }
-        }
-        
+    public static Singleton getInstance() {
+        System.out.println("Returning: SingletonHolder.INSTANCE");
+        return SingletonHolder.INSTANCE;
+    }
+}
+```
   * Output:
   
         From Main: Requesting Singleton ( Singleton.getInstance() )
@@ -30,26 +31,26 @@
 ## C#
 * Implementation: [External Link: MSDN Implementing Singleton in C#](https://msdn.microsoft.com/en-us/library/ff650316.aspx)
   * Basic: This is lazily instantiated as well, however it is not thread-safe.  
-  
-        public class Singleton1 {
-          private static Singleton1 instance;
+```csharp  
+public class Singleton1 {
+  private static Singleton1 instance;
 
-          private Singleton1() {
-            Console.WriteLine("Inside Singleton1 private Constructor: Calling Thread.Sleep(2000)");
-            Thread.Sleep(2000);
-          }
+  private Singleton1() {
+    Console.WriteLine("Inside Singleton1 private Constructor: Calling Thread.Sleep(2000)");
+    Thread.Sleep(2000);
+  }
 
-          public static Singleton1 Instance {
-            get {
-              if (instance == null) {
-                Console.WriteLine("instance == null");
-                instance = new Singleton();
-              }
-              return instance;
-            }
-          }
-        }
-
+  public static Singleton1 Instance {
+    get {
+      if (instance == null) {
+        Console.WriteLine("instance == null");
+        instance = new Singleton();
+      }
+      return instance;
+    }
+  }
+}
+```
   * Output: Two "Singletons" created because second thread attempted access before first thread returned from constructor
   
         Thread Thread1: Requesting Singleton1
@@ -60,15 +61,15 @@
         Inside Singleton1 private constructor: Calling Thread.Sleep(2000)
 
   * The solution to thread-safety is to use static initialization:
-      
-        public sealed class Singleton2 {
-          private static readonly Singleton instance = new Singleton();
+```csharp
+public sealed class Singleton2 {
+  private static readonly Singleton instance = new Singleton();
 
-          private Singleton2(){ Console.WriteLine("Creating Singleton2"); }
+  private Singleton2(){ Console.WriteLine("Creating Singleton2"); }
 
-          public static Singleton2 Instance { get { return instance; } }
-        }
-
+  public static Singleton2 Instance { get { return instance; } }
+}
+```
   * Output: Appears to be lazy, but isn't necessarily so.
   
         Thread Thread3: Requesting Singleton2
@@ -76,26 +77,26 @@
         Thread Thread4: Requesting Singleton2
 
   * The method to ensure thread-safety and lazy instantiation involves using an object mutext to lock instance creation to the first thread that accesses it (MSDN asserts, however, that in most cases static initialization is sufficient):
-  
-        public sealed class Singleton {
-   
-          private static volatile Singleton instance;
-          private static object syncRoot = new Object();
+```csharp
+public sealed class Singleton {
 
-          private Singleton() {}
+  private static volatile Singleton instance;
+  private static object syncRoot = new Object();
 
-          public static Singleton Instance {
-            get {
-              if (instance == null) {
-                lock (syncRoot) {
-                  if (instance == null) 
-                    instance = new Singleton();
-                }
-              }
+  private Singleton() {}
 
-              return instance;
-            }
-          }
+  public static Singleton Instance {
+    get {
+      if (instance == null) {
+        lock (syncRoot) {
+          if (instance == null) 
+            instance = new Singleton();
         }
+      }
 
+      return instance;
+    }
+  }
+}
+```
 [Home](../README.md)
