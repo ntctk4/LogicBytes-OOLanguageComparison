@@ -1,7 +1,7 @@
 # Instance Reference Name in Data Type (class)
 
 ## Both Java and C#
-* An object can reference itself witht the keyword 'this'
+* An object can reference itself with the keyword 'this'
 
       public Class MyClass {
           int someInt;
