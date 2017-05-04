@@ -1,0 +1,6 @@
+c:\users\scott\documents\visual studio 2015\Projects\CSharpReflection\CSharpReflection\bin\Debug\CSharpReflection.exe.config
+c:\users\scott\documents\visual studio 2015\Projects\CSharpReflection\CSharpReflection\bin\Debug\CSharpReflection.exe
+c:\users\scott\documents\visual studio 2015\Projects\CSharpReflection\CSharpReflection\bin\Debug\CSharpReflection.pdb
+c:\users\scott\documents\visual studio 2015\Projects\CSharpReflection\CSharpReflection\obj\Debug\CSharpReflection.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2015\Projects\CSharpReflection\CSharpReflection\obj\Debug\CSharpReflection.exe
+c:\users\scott\documents\visual studio 2015\Projects\CSharpReflection\CSharpReflection\obj\Debug\CSharpReflection.pdb
