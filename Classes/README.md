@@ -17,4 +17,4 @@ MyClass myClass = new MyClass();
 
   Both Java and C# use garbage collection.  There is no way to manually destroy an object.  When an object is no longer referenced it is collected and destroyed by the garbage collector.
 
-[Home](../)
+[Home](../README.md)
