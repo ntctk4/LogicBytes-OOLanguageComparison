@@ -1,12 +1,16 @@
 # OO Language Comparison - Java vs. C#
+
 ## Team Members:
-### Reem Alharbi
-### Nathaniel Callahan
-### Luke Moss
-### Scott Strothmann
+* Reem Alharbi
+* Nathaniel Callahan
+* Luke Moss
+* Scott Strothmann
+
+#### Note:
+* Java Examples Produced in NetBeans
+* C# Examples Produced in Visual Studio
 
 ## Comparison Criteria
-
 * [Language purpose/genesis](Language/)
 * [Unique features of the language](Unique_Features/)
 * [Namespaces](Namespaces/)
@@ -27,3 +31,4 @@
 * [Procedural programming](Procedural_Programming/)
 * [Functional programming](Functional_Programming/)
 * [Multithreading](Multithreading/)
+
