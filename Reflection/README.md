@@ -1,6 +1,6 @@
 # Reflection
 
-Java and C# have similar reflection capabilities.  First, you can find out the class of an object.  With the Class/Type (Java/C# respectively) in hand, you can then find all the information about it: Fields, Methods, Constructors.  Neither Java nor C# reveal private members through reflection.
+Java and C# have similar reflection capabilities.  First, you can find out the class of an object.  With the Class/Type object (Java/C# respectively) in hand, you can then find all the information about it: Fields, Methods, Constructors.  Neither Java nor C# reveal private members through reflection.
 
 Reflection is used to gain information about types at runtime:
 * Oracle: "Reflection is commonly used by programs which require the ability to examine or modify the runtime behavior of applications running in the Java virtual machine."
