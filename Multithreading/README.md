@@ -3,8 +3,10 @@
 	Both Java and C# use threads when multithreading.
 * How is multitasking accomplished?
 	## Java
-		* In Java, threads can be created in two diffrent ways. The first way is to extend the Thread class. The class that extends thread must override the run() method with code that the developer want the thread to do. Then just create an object of that class and call the start() method.
-        * The second way to create a thread in java is to create a class that implements the Runnable interface, and pass that object into a thread. This way a developer must override the run() method with code that they want the thread to do. The developer must then create a thread and pass an object implementing the runnable interface in the threads constructor, then call start() on the thread.
+    
+	* In Java, threads can be created in two diffrent ways. The first way is to extend the Thread class. The class that extends thread must override the run() method with code that the developer want the thread to do. Then just create an object of that class and call the start() method.
+    
+    * The second way to create a thread in java is to create a class that implements the Runnable interface, and pass that object into a thread. This way a developer must override the run() method with code that they want the thread to do. The developer must then create a thread and pass an object implementing the runnable interface in the threads constructor, then call start() on the thread.
 
 ```java
 	public class ThreadExample extends Thread{
@@ -52,6 +54,7 @@ public class RunnableExample implements Runnable{
 }
 
 ```
+
 	## C#
 		* In C# it is much easier to create threads. An instance of a thread must be created with a delegate with the method to be ran in the thread's constructor. Once the developer is ready to run the thread, they only need to call the start() method on the instance of the thread.
 
