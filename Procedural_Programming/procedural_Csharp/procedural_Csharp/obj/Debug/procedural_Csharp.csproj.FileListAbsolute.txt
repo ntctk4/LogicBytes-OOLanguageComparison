@@ -1,0 +1,6 @@
+c:\users\reem alharbi\documents\visual studio 2015\Projects\procedural_Csharp\procedural_Csharp\bin\Debug\procedural_Csharp.exe.config
+c:\users\reem alharbi\documents\visual studio 2015\Projects\procedural_Csharp\procedural_Csharp\bin\Debug\procedural_Csharp.exe
+c:\users\reem alharbi\documents\visual studio 2015\Projects\procedural_Csharp\procedural_Csharp\bin\Debug\procedural_Csharp.pdb
+c:\users\reem alharbi\documents\visual studio 2015\Projects\procedural_Csharp\procedural_Csharp\obj\Debug\procedural_Csharp.csprojResolveAssemblyReference.cache
+c:\users\reem alharbi\documents\visual studio 2015\Projects\procedural_Csharp\procedural_Csharp\obj\Debug\procedural_Csharp.exe
+c:\users\reem alharbi\documents\visual studio 2015\Projects\procedural_Csharp\procedural_Csharp\obj\Debug\procedural_Csharp.pdb
