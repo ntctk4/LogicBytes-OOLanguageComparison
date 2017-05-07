@@ -1,7 +1,7 @@
 # Implementation of Listeners and Event Handlers
-*Listeners and Event Handlers wait until there is a specified event that happens and reacts to that event based on what is in the method.
-*Java
-	*In this example, every time the mouse passes through the button a message is printed out.
+* Listeners and Event Handlers wait until there is a specified event that happens and reacts to that event based on what is in the method.
+* Java
+	* In this example, every time the mouse passes through the button a message is printed out.
 ```java
 	//the btn object now listens for when the mouse hovers over
         //the button. When it does, the anonymous class handles the event
@@ -15,8 +15,8 @@
         });
 ```
 
-*C#
-	*In this example, every time the button is clicked one of the group member's names will be the new content of the button.
+* C#
+	* In this example, every time the button is clicked one of the group member's names will be the new content of the button.
 ```csharp
 	public partial class MainWindow : Window
     {
