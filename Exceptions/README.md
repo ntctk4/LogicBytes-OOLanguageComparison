@@ -12,7 +12,7 @@ In order to catch an exception (in both languages) you can do the following (acc
 
    **finally:** The finally block is used to execute a given set of statements, whether an exception is thrown or not thrown. For example, if you open a file, it must be closed whether an exception is raised or not.
 
-   **throw:** A program throws an exception when a problem shows up. This is done using a throw keyword.
+   **throw:** A program throws an exception when a problem shows up. This is done using a throw keyword (some people use a throw to see an exception rather than catching it).
 
 * ### *Exception Hierarchy:*
 If a super class is mentioned in a catch before a subclass of an exception, then it will always occurs (which makes deciding specifically the problem or the exception harder if you want to know excatly what happened). That is why you try to mention the subclass before the superclass. 
