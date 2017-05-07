@@ -55,8 +55,9 @@ public class RunnableExample implements Runnable{
 
 ```
 
-	## C#
-		* In C# it is much easier to create threads. An instance of a thread must be created with a delegate with the method to be ran in the thread's constructor. Once the developer is ready to run the thread, they only need to call the start() method on the instance of the thread.
+
+## C#
+	* In C# it is much easier to create threads. An instance of a thread must be created with a delegate with the method to be ran in the thread's constructor. Once the developer is ready to run the thread, they only need to call the start() method on the instance of the thread.
 
 ```csharp
   class Program
