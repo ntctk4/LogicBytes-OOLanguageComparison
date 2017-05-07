@@ -1,0 +1,6 @@
+c:\users\reem alharbi\documents\visual studio 2015\Projects\Exception_cSharp\Exception_cSharp\bin\Debug\Exception_cSharp.exe.config
+c:\users\reem alharbi\documents\visual studio 2015\Projects\Exception_cSharp\Exception_cSharp\bin\Debug\Exception_cSharp.exe
+c:\users\reem alharbi\documents\visual studio 2015\Projects\Exception_cSharp\Exception_cSharp\bin\Debug\Exception_cSharp.pdb
+c:\users\reem alharbi\documents\visual studio 2015\Projects\Exception_cSharp\Exception_cSharp\obj\Debug\Exception_cSharp.csprojResolveAssemblyReference.cache
+c:\users\reem alharbi\documents\visual studio 2015\Projects\Exception_cSharp\Exception_cSharp\obj\Debug\Exception_cSharp.exe
+c:\users\reem alharbi\documents\visual studio 2015\Projects\Exception_cSharp\Exception_cSharp\obj\Debug\Exception_cSharp.pdb
