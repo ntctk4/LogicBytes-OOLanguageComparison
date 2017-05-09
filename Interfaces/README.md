@@ -16,6 +16,10 @@ The abilities that I will mention are for both Java and C#:
 5. An interface can extend many other interfaces.
 
 * ### *How is it used?*
+You can go to the file codes/programs to see how it is used.
+Also the follwing page does a code comparision between C# and Java in terms of code: [Java vs. C#](http://www.javacamp.org/javavscsharp/interface.html).
+* Java taturial on interface and how it is used: [Java taturial](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html).
+* C# taturial on interface: [C# taturial](https://docs.microsoft.com/en-us/dotnet/articles/csharp/tour-of-csharp/interfaces).
 
 
 ---
