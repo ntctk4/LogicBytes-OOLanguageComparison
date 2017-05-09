@@ -5,15 +5,15 @@ Both C# and Java support interfaces. An interface is a description of the action
 * ### *What abilities does it have?*
 The abilities that I will mention are for both Java and C#:
 
-* An interface can declare any number of methods but they all need to be abstract (you cannot provide an implementation for it).
+1. An interface can declare any number of methods but they all need to be abstract (you cannot provide an implementation for it).
 
-* It can contain properties; but be careful none of the properties can be instance fields. In java: Any fields in the interface need to be either static or constant. 
+2. It can contain properties; but be careful none of the properties can be instance fields. In java: Any fields in the interface need to be either static or constant. 
 
-* You cannot create an instance from an interface; thus it is easy to see that an interface does not contain consturctors.
+3. You cannot create an instance from an interface; thus it is easy to see that an interface does not contain consturctors.
 
-* You can never extend an interface; you can only implement it (in java using the word implement, and in C# using the colon :). However you can implement as many interfaces as you want.
+4. You can never extend an interface; you can only implement it (in java using the word implement, and in C# using the colon :). However you can implement as many interfaces as you want.
 
-* An interface can extend many other interfaces.
+5. An interface can extend many other interfaces.
 
 * ### *How is it used?*
 
